@@ -17,8 +17,8 @@
 
 ## Setup Instructions
 - Download or clone the repository.
-- To install dependencies, go to the terminal and run following commands:
-  `cd solidity`
+- To install dependencies, go to the terminal and run following commands:<br>
+  `cd solidity`<br>
   `npm install`
 - For testing, run `npm test`.
  The tests that require checking of a timestamp might fail sometimes due to a tiny time difference between consecutive operations. Please re-run the test if that happens.
